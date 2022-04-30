@@ -1,0 +1,4 @@
+Crie um método para calcular as médias
+- Crie três objetos cada um contendo um nome, a mesma turma e duas notas 
+armazenadas em um Arrray
+- Crie uma propriedade para receber o método
